@@ -1,6 +1,5 @@
-spring:
-   application:
-     name: Config-Dev
+server:
+  port: 9092
 eureka:
   client:
     fetch-registry: true
