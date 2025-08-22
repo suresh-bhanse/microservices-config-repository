@@ -1,6 +1,5 @@
-spring:
-   application:
-     name: Config-Default
+server:
+  port:9090
 eureka:
   client:
     fetch-registry: true
